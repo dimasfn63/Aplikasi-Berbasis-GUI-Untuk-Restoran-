@@ -1,0 +1,21 @@
+Pembuatan  sebuah aplikasi berbasis GUI (Graphical User Interface), 
+untuk sebuah restorant yang dimana memliki menu sebagai berikut 
+• Nasi (Rp.10.000) 
+• Ayam Goreng (Rp.15.000) 
+• Ayam bakar (Rp.20.000) 
+• Tahu Telur (Rp.10.000) 
+• Tahu (Rp.5.000) 
+• Tempe (Rp.5.000) 
+
+Aplikasi ini memiliki fitur antara lain : 
+• Dapat menambah pesanan dengan mengklik button + 
+• Dapat mengurangi pesanan dengan mengklik button - 
+• Angka pesanan akan berubah dan begitupun untuk harga 
+• Dapat memasukan nominal bayar 
+
+Dengan ketentuan aplikasi sebagai berikut : 
+• Tidak bisa bayar jika tidak ada pesanan yang dipesan 
+• Tidak bisa bayar jika harga melebihi nominal pembayaran 
+• Nominal kembalian sesuai dengan pengurangan nominal pembayaran dengan total harga 
+• Mengurangi pesanan hanya bisa tidak kurang dari 0 
+• Setelah bayar selesai data yang sudah diakumulasikan di simpan kedalam csv
